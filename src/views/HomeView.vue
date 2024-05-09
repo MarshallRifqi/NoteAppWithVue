@@ -1,7 +1,4 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
-import TodoForm from '../components/NoteForm.vue'
-import TodoList from '../components/NoteList.vue'
 import NoteList from '@/components/NoteList.vue';
 import NoteForm from '../components/NoteForm.vue';
 </script>
