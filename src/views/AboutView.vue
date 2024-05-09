@@ -1,14 +1,10 @@
 <template>
   <div class="about">
     <h1>This is an about page</h1>
-  <TodoForm />
-  <TodoList />
   </div>
 </template>
 
 <script setup>
-import TodoForm from '../components/TodoForm.vue'
-import TodoList from '../components/TodoList.vue'
 </script>
 
 <style>
